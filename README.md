@@ -1,7 +1,7 @@
 ### Take a look! 👋
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?leeseongwon95=anuraghazra&hide=contribs,prs)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?leeseongwon=anuraghazra&hide=contribs,prs)
 
 
 Here are some ideas to get you started:
