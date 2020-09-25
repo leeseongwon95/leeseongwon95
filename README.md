@@ -5,9 +5,13 @@
 
 
 🌱 Currently learning React and Node JS
+
 👌 Can develop in HTML / CSS / JS(Node) / Python / React
+
 💬 Ask me about anything.
+
 😄 Pronouns: Obsessed with learning and developing something new.
+
 📫 How to reach me: Please use the badges below.
 
 
