@@ -4,9 +4,9 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leeseongwon95&hide=stars)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeseongwon95&layout=compact)](https://github.com/leeseongwon95/github-readme-stats)
 
 
-🌱 Currently learning React and Node JS
+🌱 Currently learning C/C++, React and Node JS
 
-👌 Can develop in HTML / CSS / JS(Node) / Python / React
+👌 Can develop in C C++ / Python / HTML / CSS / JS(Node) / React 
 
 💬 Ask me about anything.
 
