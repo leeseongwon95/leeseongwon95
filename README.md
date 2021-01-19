@@ -4,9 +4,9 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leeseongwon95&hide=stars)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeseongwon95&layout=compact)](https://github.com/leeseongwon95/github-readme-stats)
 
 
-🌱 Currently learning C/C++
+🌱 Currently learning C/C++ / C# / Python
 
-👌 Can develop in C C++ / Python / HTML / CSS / JS(Node)
+👌 Can develop in C C++ / C# / Python / HTML / CSS / JS(Node)
 
 💬 Ask me about anything.
 
