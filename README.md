@@ -6,7 +6,7 @@
 
 🌱 Currently learning Python / Flutter Dart
 
-👌 Can develop in C C++ / Python / HTML / CSS / JS(Node) / Flutter
+👌 Can develop in C C++ / Python / Javascript / Flutter
 
 💬 Ask me about anything.
 
