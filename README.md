@@ -1,18 +1,35 @@
-### Take a look! 👋
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leeseongwon95&hide=stars)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeseongwon95&layout=compact)](https://github.com/leeseongwon95/github-readme-stats)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient"><br/>
+  <a href="https://imgbb.com/"><img src="https://i.ibb.co/Yd5jSXK/rirakuma-psa.png" alt="rirakuma-psa" width="128px" border="0"></a>
+</p>
+
+<p align="center">
+  
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leeseongwon95&hide=stars)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeseongwon95&layout=compact)](https://github.com/leeseongwon95/github-readme-stats)
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleeseongwon95%2Fhit-counter)](https://hits.seeyoufarm.com)
+</p>
 
 
-🌱 Currently learning Python / javascript / Flutter Dart
+<h3 align="center"><b>Contact</b></h3>
+<p align="center">
+<a href="https://velog.io/@leeseongwon"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a> &nbsp
+<a href="mailto:syanggu0540@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> &nbsp
+<a href="https://www.linkedin.com/in//"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a> &nbsp
+<a href="https://www.instagram.com/syangguuuu/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a> &nbsp
+<a href="https://www.notion.so/Portfolio-fc12ca9fd35d46d9aa37b683f1868ff5?p=6fac43f2acfe48c78f067357d1fa91b0&pm=c/"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/></a> &nbsp
+</p>
 
-👌 Can develop in C C++ / Python / Flutter
-
-💬 Ask me about anything.
-
-😄 Pronouns: Obsessed with learning and developing something new.
-
-📫 How to reach me: Please use the badges below.
-
-
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@leeseongwon/)](https://velog.io/@leeseongwon/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:syanggu0540@gmail.com)](mailto:syanggu0540@gmail.com) <a href="https://www.notion.so/fc12ca9fd35d46d9aa37b683f1868ff5" rel="nofollow"><img src="https://camo.githubusercontent.com/368384696863a2547bd1695fbcaa38e29025f633/687474703a2f2f696d672e736869656c64732e696f2f62616467652f2d506f7274666f6c696f2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6e6f74696f6e266c696e6b3d687474703a2f2f6161726f6e6c61622e6e65742f706f7274666f6c696f2e68746d6c" alt="Portfolio" data-canonical-src="http://img.shields.io/badge/-Portfolio-black?style=flat-square&amp;logo=notion&amp;link=http://aaronlab.net/portfolio.html" style="max-width:100"></a> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleeseongwon95%2Fhit-counter)](https://hits.seeyoufarm.com)
+<h3 align="center"><b>Skills</b></h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> &nbsp 
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/> &nbsp
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/> &nbsp
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/> &nbsp
+  <br/>
+  <img src="https://img.shields.io/badge/TypeScript-007acc?style=flat-square&logo=TypeScript&logoColor=white"/> &nbsp
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/> &nbsp
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/> &nbsp
+</p>
