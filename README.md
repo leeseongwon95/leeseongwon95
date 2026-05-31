@@ -4,12 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient"><br/>
 </p>
 
-<p align="center">
-  
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leeseongwon95&hide=stars)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeseongwon95&layout=compact)](https://github.com/leeseongwon95/github-readme-stats)
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleeseongwon95%2Fhit-counter)](https://hits.seeyoufarm.com)
-</p>
+
 
 
 <h3 align="center"><b>Contact</b></h3>
