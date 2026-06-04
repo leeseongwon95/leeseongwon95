@@ -12,10 +12,12 @@
 <!-- About -->
 <div align="center">
 
+| | | |
 |---|---|---|
 | 🏭 | 6+ years in Industrial Automation | PLC / Servo / B&R / Siemens / KEBA |
 | 📡 | ESP32 / MQTT / FastAPI / TimescaleDB | Embedded & IoT |
 | 📱 | React Native / Swift / TypeScript | Mobile |
+
 
 </div>
 
