@@ -1,9 +1,8 @@
 <!-- Header -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Seongwon+Lee+%F0%9F%91%8B;Field+Engineer+%40+Woojin+Plaimm;Builder+of+things+that+move+%26+think;From+PLC+to+App+%E2%80%94+Full+Stack+of+Iron)](https://git.io/typing-svg)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0057FF&height=120&section=header&text=&animation=fadeIn" width="100%"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=FF6B2B&center=true&vCenter=true&width=600&lines=Industrial+Automation+Engineer;Embedded+%26+IoT+Developer;Electrical+%26+Software+Engineer;Web+%26+App+Developer)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:FF6B2B,100:FF8C42&height=120&section=header&text=&animation=twinkling" width="100%"/>
 
 </div>
 
@@ -99,8 +98,10 @@ React-based web and React Native app development. Freelance experience across mu
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0057FF,100:00D9FF&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4500,100:FF6B2B&height=100&section=footer" width="100%"/>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=leeseongwon95.leeseongwon95&color=00D9FF)
 
 </div>
+
+
