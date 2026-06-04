@@ -12,22 +12,36 @@
 <!-- About -->
 <div align="center">
 
-![](https://img.shields.io/badge/🏭_Industrial-6%2B_years-0D1117?style=flat-square)
-![](https://img.shields.io/badge/B%26R-Automation_Studio-00A8E0?style=flat-square)
-![](https://img.shields.io/badge/Siemens-TIA_Portal-009999?style=flat-square)
-![](https://img.shields.io/badge/KEBA-KeMotion-E30613?style=flat-square)
-![](https://img.shields.io/badge/ACOPOS-Servo_Tuning-FF6B00?style=flat-square)
+🎓 **B.S. in Control & Instrumentation Engineering**
+Hardware foundation in circuit design, control theory, and instrumentation — applied end-to-end in software.
 
-![](https://img.shields.io/badge/📡_Embedded_&_IoT-Full_Stack-0D1117?style=flat-square)
-![](https://img.shields.io/badge/ESP32-Firmware-E7352C?style=flat-square)
-![](https://img.shields.io/badge/MQTT-Broker-660066?style=flat-square)
-![](https://img.shields.io/badge/FastAPI-Backend-009688?style=flat-square)
-![](https://img.shields.io/badge/TimescaleDB-Time_Series-FDB515?style=flat-square)
+---
 
-![](https://img.shields.io/badge/📱_Mobile-iOS_/_Cross_Platform-0D1117?style=flat-square)
-![](https://img.shields.io/badge/React_Native-TypeScript-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/Swift-WidgetKit-FA7343?style=flat-square&logo=swift&logoColor=white)
-![](https://img.shields.io/badge/SQLite-op--sqlite-003B57?style=flat-square)
+🏭 **Industrial** · 6+ years
+
+![](https://img.shields.io/badge/B%26R-00A8E0?style=flat-square)
+![](https://img.shields.io/badge/Siemens-009999?style=flat-square)
+![](https://img.shields.io/badge/KEBA-E30613?style=flat-square)
+
+PLC programming and servo drive tuning. Extensive field experience with B&R, Siemens, and KEBA systems.
+
+📡 **Embedded & IoT**
+
+![](https://img.shields.io/badge/ESP32-E7352C?style=flat-square)
+![](https://img.shields.io/badge/MQTT-660066?style=flat-square)
+![](https://img.shields.io/badge/FastAPI-009688?style=flat-square)
+![](https://img.shields.io/badge/TimescaleDB-FDB515?style=flat-square)
+
+Capable of implementing across all layers — from hardware to server and app.
+
+📱 **Web & App**
+
+![](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+React-based web and React Native app development. Freelance experience across multiple projects.
 
 </div>
 
