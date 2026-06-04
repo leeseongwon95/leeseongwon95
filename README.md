@@ -76,26 +76,12 @@
 
 ---
 
-<!-- Projects -->
-## 🔧 What I Build
-
-| Category | Project | Stack |
-|---|---|---|
-| 📱 Mobile | **Loop** — 루틴·할일 관리 iOS 앱 | React Native · TypeScript · SQLite · WidgetKit |
-| 📡 Embedded | **멍구 급식기** — IoT 자동 급식기 | ESP32 · FastAPI · MQTT · React Native |
-| 📡 Embedded | **자동 커튼기** — 스마트 커튼 제어기 | ESP32 · FreeRTOS |
-| 🏭 Industrial | **모터 비교 데이터 로거** — 6채널 실시간 분석 | B&R · ACOPOS · Python |
-| 🏭 Industrial | **스크류 런어웨이 버그 수정** — TN값 이슈 디버깅 | B&R PLC · C |
-
----
-
 <!-- Contact -->
 ## 📬 Contact
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/syanggu@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:syanggu@naver.com)
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@leeseongwon)
 [![Notion](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://app.notion.com/p/fc12ca9fd35d46d9aa37b683f1868ff5)
 
 </div>
