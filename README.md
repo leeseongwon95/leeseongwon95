@@ -90,8 +90,8 @@ React-based web and React Native app development. Freelance experience across mu
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/syanggu@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:syanggu@naver.com)
 [![Notion](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://app.notion.com/p/fc12ca9fd35d46d9aa37b683f1868ff5)
+[![Email](https://img.shields.io/badge/syanggu0540@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syanggu0540@gmail.com)
 
 </div>
 
