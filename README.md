@@ -12,12 +12,10 @@
 <!-- About -->
 <div align="center">
 
-| | | |
 |---|---|---|
 | 🏭 | 6+ years in Industrial Automation | PLC / Servo / B&R / Siemens / KEBA |
 | 📡 | ESP32 / MQTT / FastAPI / TimescaleDB | Embedded & IoT |
 | 📱 | React Native / Swift / TypeScript | Mobile |
-| 🧠 | *"센서부터 대시보드까지 혼자 만든다"* | |
 
 </div>
 
