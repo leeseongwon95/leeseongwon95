@@ -13,6 +13,7 @@
 <div align="center">
 
 🎓 **B.S. in Control & Instrumentation Engineering**
+
 Hardware foundation in circuit design, control theory, and instrumentation — applied end-to-end in software.
 
 ---
